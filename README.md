@@ -174,8 +174,8 @@ Ensure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/askafrika.git
-cd ask-africa-platform
+git clone https://github.com/your-username/askafrica.git
+cd askafrica
 ```
 
 2. Install dependencies:
@@ -305,44 +305,6 @@ AskAfrica is configured for deployment on Vercel. To deploy:
 4. Deploy the application
 
 For other hosting providers, ensure you set up the necessary environment variables and build commands as specified in the `package.json` file.
-
-## Contributing
-
-We welcome contributions from the community! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to submit contributions.
-
-Here's a quick overview of the process:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/AmazingFeature`)
-3. Make your changes
-4. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-5. Push to the branch (`git push origin feature/AmazingFeature`)
-6. Open a Pull Request
-
-## Community and Support
-
-Join our vibrant community of developers and users:
-
-- [Discord Server](https://discord.gg/askafrica)
-- [Forum](https://forum.askafrica.com)
-- [Twitter](https://twitter.com/AskAfricaPlatform)
-- [LinkedIn](https://www.linkedin.com/company/askafrica)
-
-For bug reports and feature requests, please use our [GitHub Issues](https://github.com/your-username/ask-africa-platform/issues) page.
-
-## Roadmap
-
-Our future plans for AskAfrica include:
-
-- [ ] Native mobile apps for iOS and Android
-- [ ] Integration with African educational institutions
-- [ ] AI-powered content moderation
-- [ ] Blockchain-based reputation system
-- [ ] Virtual events and webinars feature
-- [ ] Expansion of job market features
-- [ ] Integration with African payment systems
-
-Check our [project board](https://github.com/your-username/ask-africa-platform/projects) for the most up-to-date roadmap.
 
 ## Screenshots
 
