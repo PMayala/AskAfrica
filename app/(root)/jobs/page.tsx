@@ -14,7 +14,7 @@ import { Job } from "@/types";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Jobs | DevOverFlow",
+  title: "Jobs | AskAfrica",
 };
 
 interface Props {

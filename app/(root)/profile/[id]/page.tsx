@@ -18,7 +18,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Profile | DevOverFlow",
+  title: "Profile | AskAfrica",
 };
 
 const Page = async ({ params, searchParams }: URLProps) => {

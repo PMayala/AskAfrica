@@ -22,7 +22,7 @@ import { SearchParamsProps } from "@/types";
 import { HomePageFilters } from "@/constants/filters";
 
 export const metadata: Metadata = {
-  title: "Home | DevOverFlow",
+  title: "Home | AskAfrica",
 };
 
 export default async function Home({ searchParams }: SearchParamsProps) {

@@ -9,7 +9,7 @@ import type { Metadata } from "next";
 import { getUserById } from "@/lib/actions/user.actions";
 
 export const metadata: Metadata = {
-  title: "Ask a Question | DevOverFlow",
+  title: "Ask a Question | AskAfrica",
 };
 
 const Page = async () => {
